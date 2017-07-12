@@ -1,3 +1,4 @@
-Hola este es un nuevo fichero
+Hola este es un nuevo archivo
 creado desde el VI en linea de
-commandos.
+commando para ver el funcionamiento.
+Tambien vamos a incluir una linea nueva
